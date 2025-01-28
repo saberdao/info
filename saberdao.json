@@ -1,0 +1,170 @@
+[
+    {
+      "id": "msol_sol",
+      "name": "mSOL-SOL",
+      "swapAccount": "Lee1XZJfJ9Hm2K1qTyeCz1LXNc1YBZaKZszvNY4KCDw",
+      "numeratorStr": "1",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "usdc_usdt",
+      "name": "USDT-USDC",
+      "swapAccount": "YAkoNb6HKmSxQN9L8hiBE5tPJRsniSSMzND1boHmZxe",
+      "numeratorStr": "1",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "sol_vsol",
+      "name": "SOL-vSOL",
+      "swapAccount": "C2ypsDADXcCRz8HbV2zX1AXPSja7a1P3xZtRC91xGhJh",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "sanctum",
+      "name": "INF-SOL",
+      "swapAccount": "FrnkTEL6yZ5Aycq2TrEgu29dCrwKG4LPUZydfiwqspkc",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "wbtc_cbbtc",
+      "name": "cbBTC-WBTC",
+      "swapAccount": "DVJ9mtgcaxuoYg1EJb6DmyR3sYbBShUWvvYfP8GKyutS",
+      "numeratorStr": "1",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "usdh",
+      "name": "USDH-USDC",
+      "swapAccount": "MARpDPs5A7XiyCWPNH8GsMWPLxmwNn9SBmKvPa9LzgA",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "blazesol",
+      "name": "SOL-bSOL",
+      "swapAccount": "STK75uPSyBnEhGTTzb1nwmP3n427XoXmfRhXxxhyady",
+      "numeratorStr": "1",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "picosol_jupsol",
+      "name": "jupSOL-picoSOL",
+      "swapAccount": "4kVS9bcBy7uorCy5tBCSzJkRoHuqJfsDJ2BKCaaqif5B",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "euroe_eurc",
+      "name": "EUROe-EURC",
+      "swapAccount": "BJo5DwH4YWExpZ1Zu1FdZaM6jcqHwXSR5DkHBEwb3AbM",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "ush",
+      "name": "USH-USDC",
+      "swapAccount": "HEDSDjj84KS7LKhZY7ejkCACTdPen62rKhCby1wXtgxc",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "jsol",
+      "name": "JSOL-SOL",
+      "swapAccount": "JSoLLrxK5bYdHwTEWYaGgmeycBCNXKDiBCTw5hXGBg7",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "soulsol_vsol",
+      "name": "soulSOL-vSOL",
+      "swapAccount": "ASj3vyqLZekfGjBgWVHhzPAgJLSB7XZYGaW6VWn6sbjr",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "lntrnsol_jupsol",
+      "name": "lanternSOL-jupSOL",
+      "swapAccount": "DjwR6TuqVQB8tWMLNwKSnSG6k5WjXUBTRHn6s1YFhVQf",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "cgntsol_jitosol",
+      "name": "cgntSOL-jitoSOL",
+      "swapAccount": "FMFdmexvUSwby1Y2xiVr76mKwDQ3M3aTZ5kFCrsBc819",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "bonksol_jupsol",
+      "name": "bonkSOL-jupSOL",
+      "swapAccount": "FLMk9DsznFvjQPQ1avBVbfX1VyWknUpxFJ7T15eoFef2",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "msol_jsol",
+      "name": "mSOL-JSOL",
+      "swapAccount": "SoNcU2iwHMw6dGzsYNQkYFkUjwN1UdAjrWVRnStrZu2",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "bsol_vsol",
+      "name": "bSOL-vSOL",
+      "swapAccount": "H5xvm23yMWMvXCXsvLD5tXtdc4y4fpu3nnRbsWUybcjH",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "scn_jsol",
+      "name": "INF-JSOL",
+      "swapAccount": "SoN9GaFpSXfpyR5dth3x7PHPVhvJMpQqqDJfCSmPv1t",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "vsol_jupsol",
+      "name": "jupSOL-vSOL",
+      "swapAccount": "2fidLKA6qoidEBGk5k53Vj5UeLB1C2269hPgvfLzT7kn",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "pawsol_vsol",
+      "name": "vSOL-pawSOL",
+      "swapAccount": "3AckmpnD1CxNtESbVZYKFdEWLPBSJ5B2GrVwTf1UpyD5",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "scn_msol",
+      "name": "INF-mSOL",
+      "swapAccount": "Dg3mAgpwDfVNnbGWcsxL8sUcSkEbjSJQhKAWNigG44Ju",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "stsol_msol",
+      "name": "stSOL-mSOL",
+      "swapAccount": "7dwD9TF6uikvHXxPFK9AsSim54yJoujQjY9vU6gNFumk",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "hubsol_jupsol",
+      "name": "jupSOL-hubSOL",
+      "swapAccount": "8MgrW6UFJRuZMNA44286yL8hCYmsmEvSfBZ5Zv5q6rVe",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    },
+    {
+      "id": "strongsol_vsol",
+      "name": "strongSOL-vSOL",
+      "swapAccount": "gDizHuSV8Bk787c6pWAUHFMALwpX4hYeqEwvV75PiDd",
+      "numeratorStr": "4",
+      "denominatorStr": "10000"
+    }
+]
